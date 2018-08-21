@@ -1,0 +1,25 @@
+{
+  "name": "askhealthdash",
+  "version": "1.0.0",
+  "description": "\"Dashboard to parse Healt on ADSK framework!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkming2008/adsk2018.git"
+  },
+  "author": "Daniel Castaneda @2018",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darkming2008/adsk2018/issues"
+  },
+  "homepage": "https://github.com/darkming2008/adsk2018#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.3",
+    "node-red-dashboard": "^2.9.6"
+  }
+}
